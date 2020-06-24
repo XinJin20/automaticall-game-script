@@ -1,0 +1,20 @@
+1. Download "x32dbg" at: https://sourceforge.net/projects/x64dbg/files/snapshots/
+2. Go to the file path "\release\x32" and run x32dbg.exe. - https://cdn.discordapp.com/attachments/490931194524073996/490935190676439051/Screenshot_94.png
+
+2.1 This is what you should see when you run the program. - https://cdn.discordapp.com/attachments/490931194524073996/490935354778451969/Screenshot_87.png
+
+3. Open LoL and Login. Your account should be locked like this... - https://cdn.discordapp.com/attachments/490931194524073996/490935706051674123/Screenshot_95.png
+
+4. In x32dbg press the shortcut: "Alt + A", you should see a window that looks like this.
+4.1 Click on "League Client" and than click the "Attach" button. - https://cdn.discordapp.com/attachments/490931194524073996/490936429879230475/Screenshot_89.png
+
+4.2 Give it a few seconds (30 sec up to a minute) to do it's thing.
+5. Press the button shown in the picture. The league client should close. - https://cdn.discordapp.com/attachments/490931194524073996/490936796440690699/Screenshot_96.png
+
+5.1 Give it around 10-30 seconds and run League again, login and your email verification should be gone. - https://cdn.discordapp.com/attachments/490931194524073996/490937269289484290/Screenshot_98.png
+
+IMPORTANT
+This might not work on your first try, sometimes it takes a few tries to get rid of the email verification.
+You WILL have to do this everytime you login into that account.
+
+I hope you found this guide helpful.
